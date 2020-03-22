@@ -4,4 +4,4 @@ PORT=xxx
 APP_ID='xxx'
 APP_SECRET='xxx'
 /* */
-และกำหนด PORT ใหเตรงกัน
+และกำหนด PORT ให้ตรงกัน
